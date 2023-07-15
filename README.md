@@ -1,89 +1,30 @@
-# Projeto Integrador - Modelo
-*(Coloque aqui o nome do seu projeto.)*
+# Projeto Integrador Mobile - Veterinaria Grande Orvalho- Modelo
 
-Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Coloque aqui uma breve descrição do seu projeto.)*
 
-Cadastre seu projeto nesse [link](https://docs.google.com/spreadsheets/d/1V_1h6hJ3cNLK5eY7Hy5B8hQDxYy8GcZNHyFfC2HdawI/edit?usp=sharing).
-
-Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https://github.com/AlannKPerini).
+A seguir está um modelo de documentação para estudos relacionados à criação de um aplicativo de front-end e back-end para uma clínica veterinária. Este sistema foi apresentado e desenvolvido por estudantes do Ensino Médio integrado ao curso técnico em Informática para a Internet do IFC - Campus Araquari.
 
 Equipe:
-- [Aluno1](github.com/aluno1)
+- [Miguel Bochi](github.com/MiguelBochi)
 - [Aluno2](github.com/aluno2)
   
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend[Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
-**Como usar esse modelo para o Projeto Integrador**
-
-*(Essa parte pode ser apagada depois.)*
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instaladas as seguintes extensões:
-   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) 
-   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-5. Edite o arquivo README.md com as informações do seu projeto.
-
-# 1. Desenvolvimento
-*(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
-
-**1.1 Modelos de Sistemas**
-
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
-
-**1.1.1 Ponto de Vendas (PDV)**
-
-**Gerenciamento de vendas para uma padaria**
-
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
-
-**1.1.2 Empréstimo**
-
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-**1.1.3 Ordem de Serviço (O.S.)**
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio no qual ele é responsável pelos consertos e sua esposa, Marília, realiza o atendimento aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante para ele conseguir ter relatórios que o ajudem na gestão da empresa, como o status dos serviços.
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
-
 ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
 
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
 
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
+A Clínica Veterinária Grande Orvalho opera de maneira simples e eficiente, contando com uma equipe composta por dois funcionários: o médico veterinário e gerente, Baltazar, e sua secretária e recepcionista, chamada Nã. Nã desempenha um papel fundamental no agendamento de consultas, criação de fichas para os clientes e seus animais de estimação, além de cuidar da organização dos documentos. Enquanto isso, Baltazar é responsável pelo cuidado direto dos animais e também lida com as questões jurídicas relacionadas à clínica veterinária. Essa divisão de tarefas permite que a Clínica Veterinária Grande Orvalho ofereça serviços de alta qualidade e atendimento personalizado aos seus clientes e seus adoráveis companheiros de quatro patas.
 
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são propostas com empresas fictícias, sendo assim, você terá que tomar certas decisões sobre como a empresa funciona em relação às coisas que não estão definidas no documento base (por exemplo, no caso da padaria, dizemos que seu Genival contratou mais funcionários, mas saber quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
+O ciclo de consultas na clínica veterinária segue o seguinte processo: a recepcionista, Nã, inicia criando uma ficha para o cliente e seu animal de estimação. Durante esse processo, ela também solicita relatórios médicos anteriores do animal. Caso esses detalhes não estejam disponíveis ou faltem informações, é agendada uma vistoria ao animal. O pagamento da vistoria é realizado no mesmo momento.
 
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
+Durante a vistoria, o médico veterinário, Baltazar, avalia o animal e atualiza sua ficha com o estado atual, além de criar um relatório correspondente. Se for identificada a necessidade de um tratamento especial, é feita uma análise do custo necessário para o tratamento. Esse custo é então informado ao cliente. O pagamento pode ser realizado integralmente ou de forma parcelada. O tratamento é iniciado no mesmo mês do pagamento da primeira parcela, e o animal é liberado após o período de tratamento. Durante esse período, é criado outro relatório abrangendo o acompanhamento e os resultados do tratamento.
 
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+Essa abordagem garante que a clínica veterinária ofereça um serviço completo, desde o agendamento inicial até o tratamento e o acompanhamento necessário para os animais de estimação. A colaboração entre Nã e Baltazar assegura uma operação eficiente e um atendimento de qualidade aos clientes da Clínica Veterinária Grande Orvalho.
 
 # 3. Descrição da proposta
 
