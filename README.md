@@ -8,7 +8,7 @@ Equipe:
 - [Aluno2](github.com/aluno2)
   
 Links do projeto:
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
+-   [Desenho](https://www.figma.com/file/VhoaWRAWHps62tjXoqMTV0/Pages_GO?type=design&node-id=0%3A1&mode=design&t=FH917MbVwo1Kk0oD-1)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend[Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
